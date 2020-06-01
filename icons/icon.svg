@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g transform="translate(30, 0)">
+    <rect width="6" height="6" x="-30" y="0" fill="#9a3b23"></rect>
+    <rect width="6" height="6" x="-30" y="7" fill="#239a3b"></rect>
+    <rect width="6" height="6" x="-30" y="14" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-30" y="21" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-30" y="28" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-30" y="35" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-30" y="42" fill="#e48bc6"></rect>
+  </g>
+  <g transform="translate(38, 0)">
+    <rect width="6" height="6" x="-31" y="0" fill="#e48bc6"></rect>
+    <rect width="6" height="6" x="-31" y="7" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-31" y="14" fill="#196127"></rect>
+    <rect width="6" height="6" x="-31" y="21" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-31" y="28" fill="#239a3b"></rect>
+    <rect width="6" height="6" x="-31" y="35" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-31" y="42" fill="#9a3b23"></rect>
+  </g>
+  <g transform="translate(46, 0)">
+    <rect width="6" height="6" x="-32" y="0" fill="#c96f7b"></rect>
+    <rect width="6" height="6" x="-32" y="7" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-32" y="14" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-32" y="21" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-32" y="28" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-32" y="35" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-32" y="42" fill="#e48bc6"></rect>
+  </g>
+  <g transform="translate(54, 0)">
+    <rect width="6" height="6" x="-33" y="0" fill="#9a3b23"></rect>
+    <rect width="6" height="6" x="-33" y="7" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-33" y="14" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-33" y="21" fill="#7bc96f"></rect>
+    <rect width="6" height="6" x="-33" y="28" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-33" y="35" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-33" y="42" fill="#e48bc6"></rect>
+  </g>
+  <g transform="translate(62, 0)">
+    <rect width="6" height="6" x="-34" y="0" fill="#e48bc6"></rect>
+    <rect width="6" height="6" x="-34" y="7" fill="#239a3b"></rect>
+    <rect width="6" height="6" x="-34" y="14" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-34" y="21" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-34" y="28" fill="#7bc96f"></rect>
+    <rect width="6" height="6" x="-34" y="35" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-34" y="42" fill="#9a3b23"></rect>
+  </g>
+  <g transform="translate(70, 0)">
+    <rect width="6" height="6" x="-35" y="0" fill="#c96f7b"></rect>
+    <rect width="6" height="6" x="-35" y="7" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-35" y="14" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-35" y="21" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-35" y="28" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-35" y="35" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-35" y="42" fill="#c96f7b"></rect>
+  </g>
+  <g transform="translate(78, 0)">
+    <rect width="6" height="6" x="-36" y="0" fill="#e48bc6"></rect>
+    <rect width="6" height="6" x="-36" y="7" fill="#7bc96f"></rect>
+    <rect width="6" height="6" x="-36" y="14" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-36" y="21" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-36" y="28" fill="#7bc96f"></rect>
+    <rect width="6" height="6" x="-36" y="35" fill="#239a3b"></rect>
+    <rect width="6" height="6" x="-36" y="42" fill="#e48bc6"></rect>
+  </g>
+  <g transform="translate(86, 0)">
+    <rect width="6" height="6" x="-37" y="0" fill="#e48bc6"></rect>
+    <rect width="6" height="6" x="-37" y="7" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-37" y="14" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-37" y="21" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-37" y="28" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-37" y="35" fill="#c6e48b"></rect>
+    <rect width="6" height="6" x="-37" y="42" fill="#e48bc6"></rect>
+  </g>
+</svg>

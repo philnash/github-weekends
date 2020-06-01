@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "GitHub Weekends",
+  "version": "1.0",
+  "description": "A silly browser extension that marks weekend contributions on GitHub in red.",
+  "content_scripts": [
+    {
+      "matches": ["*://*.github.com/*"],
+      "js": ["weekend.js"]
+    }
+  ],
+  "icons": {
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
+  }
+}
