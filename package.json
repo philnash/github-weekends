@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "web-ext build --ignore-files=images 'package*' README.md"
+  },
+  "devDependencies": {
+    "web-ext": "^4.2.0"
+  }
+}

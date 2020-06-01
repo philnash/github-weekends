@@ -98,17 +98,21 @@ const saturdays = Array.from(
 );
 const weekendDays = saturdays.concat(sundays);
 
-const headline = document.querySelector(".js-yearly-contributions h2");
-const workDays = weekendDays.filter((day) => day.dataset.count !== "0");
-const weekendCount = workDays.reduce((acc, currentDay) => {
-  return acc + parseInt(currentDay.dataset.count, 10);
-}, 0);
-headline.appendChild(document.createElement("br"));
-headline.appendChild(
-  document.createTextNode(`(${weekendCount} at the weekend)`)
-);
-workDays.forEach((day) => {
-  const fill = day.getAttribute("fill");
-  const { h, s, l } = hexToHSL(fill);
-  day.setAttribute("fill", HSLToHex((h + 240) % 360, s, l));
-});
+if (weekendDays.length > 0) {
+  const workDays = weekendDays.filter((day) => day.dataset.count !== "0");
+  const weekendCount = workDays.reduce((acc, currentDay) => {
+    return acc + parseInt(currentDay.dataset.count, 10);
+  }, 0);
+  const headline = document.querySelector(".js-yearly-contributions h2");
+  if (headline) {
+    headline.appendChild(document.createElement("br"));
+    headline.appendChild(
+      document.createTextNode(`(${weekendCount} at the weekend)`)
+    );
+  }
+  workDays.forEach((day) => {
+    const fill = day.getAttribute("fill");
+    const { h, s, l } = hexToHSL(fill);
+    day.setAttribute("fill", HSLToHex((h + 240) % 360, s, l));
+  });
+}
