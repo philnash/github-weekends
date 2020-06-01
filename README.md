@@ -1,4 +1,7 @@
-# GitHub Weekends
+<div align="center">
+  <img src="./images/icon.png">
+  <h1>GitHub Weekends</h1>
+</div>
 
 A silly browser extension that marks weekend contributions on GitHub's contribution graph in red.
 
@@ -10,7 +13,7 @@ Here is what it does when run on [@philnash's GitHub profile](https://github.com
 
 ## Why?
 
-The GitHub contribution graph is a blunt tool for demonstrating work you have done within GitHub. Some people enjoy this gamification and try to build streaks. Building a streak requires committing every day and this may work for some and [be harmful for others](https://github.com/isaacs/github/issues/627). 
+The GitHub contribution graph is a blunt tool for demonstrating work you have done within GitHub. Some people enjoy this gamification and try to build streaks. Building a streak requires committing every day and this may work for some and [be harmful for others](https://github.com/isaacs/github/issues/627).
 
 Some people decide [the contribution graph is just there to messed with](https://github.com/gelstudios/gitfiti).
 
