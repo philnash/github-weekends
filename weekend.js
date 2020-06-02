@@ -94,7 +94,7 @@ const sundays = Array.from(
   document.querySelectorAll(".js-calendar-graph-svg g rect:first-child")
 );
 const saturdays = Array.from(
-  document.querySelectorAll(".js-calendar-graph-svg g rect:last-child")
+  document.querySelectorAll(".js-calendar-graph-svg g rect:nth-child(7)")
 );
 const weekendDays = saturdays.concat(sundays);
 
